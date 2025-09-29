@@ -40,9 +40,13 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+<img width="641" height="503" alt="image" src="https://github.com/user-attachments/assets/1bffae9b-b96a-485d-9baa-f1b95e1b4283" />
+
 Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:
+<img width="550" height="440" alt="image" src="https://github.com/user-attachments/assets/138d5e10-38dd-46f9-97b3-69f3525b4aca" />
+
 
 Tabulation:2
 
