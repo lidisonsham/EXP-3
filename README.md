@@ -1,4 +1,6 @@
 # EXP-3
+NAME M LIDISON SHAM M
+REG NO 212224040171
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
