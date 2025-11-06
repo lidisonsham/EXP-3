@@ -1,6 +1,4 @@
 # EXP-3
-NAME M LIDISON SHAM M
-REG NO 212224040171
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
@@ -42,15 +40,18 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
-<img width="641" height="503" alt="image" src="https://github.com/user-attachments/assets/1bffae9b-b96a-485d-9baa-f1b95e1b4283" />
+<img width="1176" height="751" alt="Screenshot 2025-10-21 231329" src="https://github.com/user-attachments/assets/f75f34d3-a79b-4eec-839d-8c577e6c2873" />
+<img width="959" height="474" alt="Screenshot 2025-09-18 113153" src="https://github.com/user-attachments/assets/52934663-4b70-4b98-92b7-adfc996c93c0" />
 
 Tabulation:1
+<img width="997" height="713" alt="Screenshot 2025-10-21 231405" src="https://github.com/user-attachments/assets/053c40c9-9efe-4e84-9a48-acede1e96f0e" />
 	
 Cross connection: CIRCUIT DIAGRAM:
-<img width="550" height="440" alt="image" src="https://github.com/user-attachments/assets/138d5e10-38dd-46f9-97b3-69f3525b4aca" />
-
+<img width="1083" height="724" alt="Screenshot 2025-10-21 231350" src="https://github.com/user-attachments/assets/e724eb1e-ff4f-4d2d-a63e-6573ca8438a6" />
+<img width="1302" height="550" alt="Screenshot 2025-09-18 114638" src="https://github.com/user-attachments/assets/86b6f34a-4106-495f-80a6-bb4224081792" />
 
 Tabulation:2
+<img width="989" height="510" alt="Screenshot 2025-10-21 231417" src="https://github.com/user-attachments/assets/8719cd2e-18d7-46cf-8fc0-0d02fa08b116" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
